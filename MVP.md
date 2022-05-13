@@ -9,9 +9,11 @@ Minimum Viable Product (Ni-Ting Chiou)
 * **Regularization:** When Lasso regularization is performed, R2 of the test dataset is reduced from 0.653 to 0.652.
 
 
-* **Results:** The following results showed that the factor of sizes is more important than the factor of room numbers.
-![alt text](https://github.com/chiouNT/Linear_regression/blob/main/Images/Model_evaluation.png)
 
+
+* **Model_evaluation:** 
+![alt text](https://github.com/chiouNT/Linear_regression/blob/main/Images/Model_evaluation.png)
+* **Feature comparison:** 
 ![alt text](https://github.com/chiouNT/Linear_regression/blob/main/Images/Feature%20comparison.png)
 
 
