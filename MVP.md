@@ -1,6 +1,6 @@
 Minimum Viable Product (Ni-Ting Chiou)
 
-##  Model of Zillow house prices
+##  Model of house prices from Zillow websites
 
 * **Numeric feature selection:** The features, bathrooms and school-ratings, have the no-significant coefficents. When these 2 features are removed, the R2 of test dataset is still 0.54.
 
@@ -9,7 +9,7 @@ Minimum Viable Product (Ni-Ting Chiou)
 * **Regularization:** When Lasso regularization is performed, R2 of the test dataset is reduced from 0.653 to 0.652.
 
 
-##  Predictions of Zillow house prices
+##  Predictions of house prices
 
 * **Model_evaluation:** 
 
