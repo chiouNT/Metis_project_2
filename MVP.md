@@ -12,9 +12,12 @@ Minimum Viable Product (Ni-Ting Chiou)
 
 
 * **Model_evaluation:** 
+
 ![alt text](https://github.com/chiouNT/Linear_regression/blob/main/Images/Model_evaluation.png)
 
+
 * **Feature comparison:** 
+
 ![alt text](https://github.com/chiouNT/Linear_regression/blob/main/Images/Feature%20comparison.png)
 
 
