@@ -6,10 +6,13 @@ write_up (Ni-Ting Chiou)
 
 The goal of the project was to use linear regression models to predict the housing prices listed at Zillow website. I scraped 1 target and 8 features from Zillow website.  The categorical features were transformed to dummy variables followed by OLS model fitting. The fitting results showed that most features that have the low correlation to the prices have the coefficients with low significant. After removing these features, and model was further optimized by Lasso regularization. The final model has 7 features and MAE of $ 267,678.
 
+## Design
+
+To predict the listed house prices, the listed prices and features were scraped from Zillow websites. 8 features were scraped. For numeric features, they include sizes, number of bedrooms, bathrooms and garages, year built and school rating. For categorical featuers, they include city and hometypes.
 
 ## Data
 
-The raw dataset contains 1097 house prices with 8 features, 2 of which are categorical features. During the data clean processes, null values were removed and 2 categorical features were converted into the dummy variables. Thus, the final dataset contains 620 house prices with 13 features.
+The raw dataset contains 1097 house prices with 8 features. During the data clean processes, null values were removed and 2 categorical features were converted into the dummy variables. Thus, the final dataset contains 620 house prices with 13 features.
   
 ## Algorithms
 
