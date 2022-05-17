@@ -19,6 +19,7 @@ The raw dataset contains 1097 house prices with 8 features, 2 of which are categ
 3.	Square-transform the age of the houses.
 
 *Models* <br> 
+
 OLS regression was used for the feature selection and Lasso regularization was used for the final optimalization.
 * Final Lasso Model 5-fold CV scores:
 0.632
