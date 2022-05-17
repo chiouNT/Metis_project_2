@@ -13,12 +13,12 @@ The raw dataset contains 1097 house prices with 8 features, 2 of which are categ
   
 ## Algorithms
 
-Feature Engineering
+*Feature Engineering*
 1.	Converting the years of the houses to the age of the houses.
 2.	Converting the categorical features to binary dummy variables.
 3.	Square-transform the age of the houses.
 
-Models 
+*Models* 
 OLS regression was used for the feature selection and Lasso regularization was used for the final optimalization.
 * Final Lasso Model 5-fold CV scores:
 0.632
