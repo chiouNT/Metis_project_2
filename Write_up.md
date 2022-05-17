@@ -40,4 +40,4 @@ OLS regression was used for the feature selection and Lasso regularization was u
 ## Communication
 * For the final housing prices model, the important features are sizes and the location of San Jose. For an estimated house prices, it is 1.2 million plus 0.4 million per sqrt of sizes and minus 0.12 million for the location of San Jose. The following figures showed the coefficients of other features.
 
-![alt text](https://github.com/chiouNT/Metis_EDA/blob/main/Image1.png)
+![alt text](https://github.com/chiouNT/Linear_regression/blob/main/Images/Final_model.png)
