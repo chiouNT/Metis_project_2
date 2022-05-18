@@ -4,7 +4,7 @@ write_up (Ni-Ting Chiou)
 
 ## Abstract
 
-The goal of the project was to use linear regression models to predict the housing prices listed at Zillow website. I scraped 1 target and 8 features from Zillow website.  The categorical features were transformed to dummy variables followed by OLS model fitting. The fitting results showed that most features that have the low correlation to the prices have the coefficients with low significant. After removing these features, and model was further optimized by Lasso regularization. The final model has 7 features and MAE of $ 267,678.
+The goal of the project was to use linear regression models to predict the housing prices listed at Zillow website. I scraped 1 target and 8 features from Zillow website.  After feature engineering, the correlation anaylsis and OLS model fitting were performed. It showed that the features having low correlation to the targets usually have the coefficients with low significant. After removing these features, and model was further optimized by Lasso regularization. The final model has the constant of 1.2 million and MAE of 0.28 million.
 
 ## Design
 
