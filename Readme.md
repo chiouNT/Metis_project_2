@@ -1,5 +1,3 @@
-write_up (Ni-Ting Chiou)
-
 # Linear regression project: Modeling the housing data in the Bay Area
 
 ## Abstract
